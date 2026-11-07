@@ -54,7 +54,12 @@ Plaintext
 └── README.md
 
 
-## 👨‍💻 Author
-Saketcharan Chauhan M (100523729054) & Abubakr Siddiq Mohammed (100523729063)
-B.E. Artificial Intelligence and Machine Learning
-Osmania University, Hyderabad
+## 👨‍💻 Contributors
+
+| S.No. | Name | Roll Number |
+|:---:|---|:---:|
+| 1 | Saketcharan Chauhan M | 100523729054 |
+| 2 | Abubakr Siddiq Mohammed | 100523729063 |
+
+**B.E. Artificial Intelligence and Machine Learning**  
+Osmania University, Hyderabad, Telangana
