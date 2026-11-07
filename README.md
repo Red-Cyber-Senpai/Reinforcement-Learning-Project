@@ -34,32 +34,40 @@ The agent was trained for 500 episodes ($12,500$ total steps).
 ## ⚙️ Installation & Usage
 
 **1. Clone the repository**
+
 ```bash
-git clone [https://github.com/yourusername/self-driving-lab-rl.git](https://github.com/yourusername/self-driving-lab-rl.git)
+git clone https://github.com/yourusername/self-driving-lab-rl.git
 cd self-driving-lab-rl
-2. Install dependencies
-Bash
+```
+
+**2. Install dependencies**
+
+```bash
 pip install torch numpy matplotlib
-3. Run the training pipeline
-Bash
+```
+
+**3. Run the training pipeline**
+
+```bash
 python train.py
-Alternatively, you can run the provided Jupyter Notebook (Project7_Self_Driving_Lab.ipynb) for an interactive breakdown of the environment and training loop.
-📁 Repository Structure
-Plaintext
-├── env.py                                # Continuous MDP chemical reactor environment
-├── agent.py                               # PyTorch REINFORCE policy network
-├── train.py                              # Main training loop and Matplotlib plotting
-├── Project7_Self_Driving_Lab.ipynb       # Interactive Jupyter Notebook version
-├── screenshots/                          # Generated learning curves and terminal logs
+```
+
+Alternatively, you can run the provided Jupyter Notebook (`Project7_Self_Driving_Lab.ipynb`) for an interactive breakdown of the environment and training loop.
+
+## 📁 Repository Structure
+
+```text
+├── env.py                          # Continuous MDP chemical reactor environment
+├── agent.py                        # PyTorch REINFORCE policy network
+├── train.py                         # Main training loop and Matplotlib plotting
+├── Project7_Self_Driving_Lab.ipynb  # Interactive Jupyter Notebook version
+├── screenshots/                     # Generated learning curves and terminal logs
 └── README.md
+```
 
+## 👨‍💻 Team
 
-## 👨‍💻 Contributors
-
-| S.No. | Name | Roll Number |
-|-------|------|-------------|
-| 1 | Saketcharan Chauhan M | 100523729054 |
-| 2 | Abubakr Siddiq Mohammed | 100523729063 |
-
-**B.E. Artificial Intelligence and Machine Learning**  
-Osmania University, Hyderabad, Telangana
+| Name | Roll No. |
+|---|---|
+| Saketcharan Chauhan M | 100523729054 |
+| Abubakr Siddiq Mohammed | 100523729063 |
