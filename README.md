@@ -53,6 +53,6 @@ Plaintext
 
 
 ## 👨‍💻 Author
-Saketcharan Chauhan M.
+Saketcharan Chauhan M & Abubakr Siddiq Mohammed
 B.E. Artificial Intelligence and Machine Learning
 Osmania University, Hyderabad
