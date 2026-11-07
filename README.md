@@ -29,6 +29,9 @@ The agent was trained for 500 episodes ($12,500$ total steps).
 
 *(Note: Add `screenshots/learning_curve_plot.png` here when uploading to GitHub to display the training curve).*
 
+<img width="3300" height="1800" alt="learning_curve_plot" src="https://github.com/user-attachments/assets/dcbab1a7-7e9d-4025-94a6-49b02135c9d9" />
+
+
 ## ⚙️ Installation & Usage
 
 **1. Clone the repository**
