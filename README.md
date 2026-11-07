@@ -55,6 +55,6 @@ Plaintext
 
 
 ## 👨‍💻 Author
-Saketcharan Chauhan M & Abubakr Siddiq Mohammed
+Saketcharan Chauhan M (100523729054) & Abubakr Siddiq Mohammed (100523729063)
 B.E. Artificial Intelligence and Machine Learning
 Osmania University, Hyderabad
