@@ -57,7 +57,7 @@ Plaintext
 ## 👨‍💻 Contributors
 
 | S.No. | Name | Roll Number |
-|:---:|---|:---:|
+|-------|------|-------------|
 | 1 | Saketcharan Chauhan M | 100523729054 |
 | 2 | Abubakr Siddiq Mohammed | 100523729063 |
 
