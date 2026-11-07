@@ -27,7 +27,6 @@ The agent was trained for 500 episodes ($12,500$ total steps).
 * **Optimal Conditions Found**: $T = 83.72^\circ\text{C}, C = 1.21\text{M}$ (Theoretical ground truth: $85.0^\circ\text{C}, 1.20\text{M}$)
 * **Stability**: The 50-episode moving average best yield steadily converged from $0.7595 \to 0.9477$.
 
-*(Note: Add `screenshots/learning_curve_plot.png` here when uploading to GitHub to display the training curve).*
 
 <img width="3300" height="1800" alt="learning_curve_plot" src="https://github.com/user-attachments/assets/dcbab1a7-7e9d-4025-94a6-49b02135c9d9" />
 
